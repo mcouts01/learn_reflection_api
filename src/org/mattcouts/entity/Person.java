@@ -1,4 +1,4 @@
-package com.company.entity;
+package org.mattcouts.entity;
 
 public class Person {
     private int id;
